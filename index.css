@@ -1,0 +1,44 @@
+.head-box{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0d0d0d;
+    color: white;
+    font-size: larger;
+    font-family: inherit;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: 255px;
+}
+
+#img-div {
+    display: flex;
+    /* height: 26vh; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.para {
+    font-size: x-large;
+    font-family: monospace;
+    text-align: center;
+    line-height: 22px;
+}
+
+.wikipidia{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigationlink{
+    font-size: larger;
+    font-family: cursive;
+}
